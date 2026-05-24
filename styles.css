@@ -100,6 +100,20 @@ img {
   color: var(--green-dark);
 }
 
+.language-switch {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-width: 42px;
+  min-height: 32px;
+  padding: 0 10px;
+  border: 1px solid rgba(18, 69, 56, 0.24);
+  border-radius: 8px;
+  background: rgba(255, 253, 248, 0.72);
+  color: var(--green-dark);
+  font-weight: 800;
+}
+
 .hero {
   position: relative;
   display: grid;
