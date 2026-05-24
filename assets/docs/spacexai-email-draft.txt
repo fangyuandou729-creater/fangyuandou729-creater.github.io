@@ -1,0 +1,19 @@
+To: ai_eng@spacex.com
+Subject: SpaceXAI application - Fangyuan Dou, embedded systems engineer
+
+Dear Elon and SpaceXAI team,
+
+I am Fangyuan Dou, an embedded systems engineering candidate from Shenzhen Technology University. I am applying for SpaceXAI because the role appears to value proven ability to build useful complex systems more than conventional AI credentials.
+
+- I have built and led complex physical systems that had to work across hardware, firmware, sensing, control, and cloud: an STM32H7-based autonomous quadcopter architecture with K230 low-latency video transmission, RTK/GPS/IMU obstacle avoidance planning, OTA update flow, and BMS design; a smart nursing robot with FreeRTOS/LVGL, 4G MQTT/TLS telemetry, vital-sign sensors, local UI, cloud storage, and alerts; and a dual-DDS wireless signal simulator with PID amplitude stabilization and an integrated oscilloscope/signal generator.
+
+- I learn fast and ship usable prototypes. In the last project cycle I built multiple AI-assisted tools and desktop/web products, including VisionControl, ProjectFinder, PlanMan, TravelGuider, NewsTree, PossibleKey, StockPilot, and Interview Atlas. These projects define real inputs, workflows, interfaces, data handling, demos, and QA artifacts rather than staying at idea level.
+
+- I have external evidence of engineering execution: TI Cup / National Undergraduate Electronic Design Contest Guangdong Third Prize, Embedded Chip and System Design Contest South China Second Prize, Lanqiao Cup Embedded Third Prize, Fibocom Smart Module Excellence Award, innovation scholarships, and smart nursing robot design patents.
+
+Portfolio: https://fangyuandou729-creater.github.io/en.html
+English resume: https://fangyuandou729-creater.github.io/assets/docs/fangyuan-dou-resume-en.docx
+GitHub: https://github.com/fangyuandou729-creater
+
+Best regards,
+Fangyuan Dou
